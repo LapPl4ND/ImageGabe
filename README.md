@@ -1,76 +1,80 @@
 <div align="center">
 
-<img src="Assets/logo.png" alt="Logo ImageGabe" width="160">
+<img src="Assets/logo.png" alt="ImageGabe logo" width="160">
 
 # ImageGabe
 
-**Récupère n'importe quelle pochette ou miniature en un clic, dans la meilleure qualité dispo.**
+**Grab any cover art or thumbnail in one click, in the best quality available.**
 
 YouTube · Spotify · SoundCloud · Deezer · Apple Music · Twitch
 
-[![Dernière version](https://img.shields.io/github/v/release/LapPl4ND/ImageGabe?style=for-the-badge&label=version&color=8B5CF6)](https://github.com/LapPl4ND/ImageGabe/releases/latest)
-[![Téléchargements](https://img.shields.io/github/downloads/LapPl4ND/ImageGabe/total?style=for-the-badge&label=t%C3%A9l%C3%A9chargements&color=EC4899)](https://github.com/LapPl4ND/ImageGabe/releases)
+[![Latest version](https://img.shields.io/github/v/release/LapPl4ND/ImageGabe?style=for-the-badge&label=version&color=8B5CF6)](https://github.com/LapPl4ND/ImageGabe/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/LapPl4ND/ImageGabe/total?style=for-the-badge&label=downloads&color=EC4899)](https://github.com/LapPl4ND/ImageGabe/releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1E1E24?style=for-the-badge)
 
 <br>
 
-### [⬇️ Télécharger ImageGabe](https://github.com/LapPl4ND/ImageGabe/releases/latest/download/ImageGabe.exe)
+**English** · [Français](README.fr.md)
 
-<sub>Un seul fichier .exe · Aucune installation · Pas besoin de .NET</sub>
+<br>
+
+### [⬇️ Download ImageGabe](https://github.com/LapPl4ND/ImageGabe/releases/latest/download/ImageGabe.exe)
+
+<sub>A single .exe file · No installation · No .NET required</sub>
 
 </div>
 
 <br>
 
 <!--
-  📸 CAPTURE D'ÉCRAN : ajoute une capture de l'app dans Assets/screenshot.png,
-  puis supprime cette ligne de commentaire et celle tout en bas du bloc.
+  📸 SCREENSHOT: add a screenshot of the app as Assets/screenshot.png,
+  then delete this comment line and the one at the bottom of the block.
 
 <div align="center">
-  <img src="Assets/screenshot.png" alt="Aperçu d'ImageGabe" width="420">
+  <img src="Assets/screenshot.png" alt="ImageGabe preview" width="420">
 </div>
 
 -->
 
-## ✨ Fonctionnalités
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Simple et rapide
-- Colle un lien et l'aperçu s'affiche instantanément
-- **Glisser-déposer** un lien depuis ton navigateur
-- **Détection automatique** d'un lien copié dans le presse-papiers
-- Copie l'image en un clic, ou enregistre-la en **JPG** ou **PNG**
+### 🎯 Quick and simple
+- Paste a link and the preview shows up instantly
+- **Drag and drop** a link straight from your browser
+- **Automatic detection** of a link copied to your clipboard
+- Copy the image in one click, or save it as **JPG** or **PNG**
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ Qualité maximale
-- Toujours la **plus haute résolution** disponible
-- Jusqu'à **3000 × 3000 px** pour Apple Music
-- Indicateur de qualité 🟢 HD / 🟠 moyenne
-- Fichier nommé automatiquement avec le **titre du morceau**
+### 🖼️ Maximum quality
+- Always the **highest resolution** available
+- Up to **3000 × 3000 px** for Apple Music
+- Quality indicator 🟢 HD / 🟠 medium
+- Files are automatically named after the **track title**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Design soigné
-- L'interface prend la **couleur de la plateforme** détectée
-- **Fond ambiant** flouté avec la pochette
-- Thème **sombre** ou **clair**
-- Interface en **français** ou en **anglais**
+### 🎨 Polished design
+- The interface takes on the **color of the detected platform**
+- **Ambient background** with the blurred cover art
+- **Dark** or **light** theme
+- Interface in **English** or **French**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Toujours à jour
-- **Mises à jour automatiques** en un clic
-- Section **« Nouveautés »** pour voir ce qui change
-- Fonctionne même avec une connexion lente
+### 🔄 Always up to date
+- **One-click automatic updates**
+- **"What's new"** section to see what changed
+- Works even on a slow connection
 
 </td>
 </tr>
@@ -78,127 +82,127 @@ YouTube · Spotify · SoundCloud · Deezer · Apple Music · Twitch
 
 <br>
 
-## 🎵 Plateformes prises en charge
+## 🎵 Supported platforms
 
-| Plateforme | Liens acceptés | Qualité max |
+| Platform | Supported links | Max quality |
 |:--|:--|:--:|
-| **YouTube** | Vidéos, Shorts, YouTube Music, liens `youtu.be` | 1280 × 720 |
-| **Spotify** | Titres, albums, playlists, artistes, podcasts | 640 × 640 et + |
-| **SoundCloud** | Titres, playlists, liens courts | originale |
-| **Deezer** | Titres, albums, playlists, artistes, liens courts | 1000 × 1000 et + |
-| **Apple Music** | Titres, albums, playlists, artistes | 3000 × 3000 |
-| **Twitch** | Live en cours, VOD, clips | 1920 × 1080 |
+| **YouTube** | Videos, Shorts, YouTube Music, `youtu.be` links | 1280 × 720 |
+| **Spotify** | Tracks, albums, playlists, artists, podcasts | 640 × 640 and up |
+| **SoundCloud** | Tracks, playlists, short links | original |
+| **Deezer** | Tracks, albums, playlists, artists, short links | 1000 × 1000 and up |
+| **Apple Music** | Songs, albums, playlists, artists | 3000 × 3000 |
+| **Twitch** | Live streams, VODs, clips | 1920 × 1080 |
 
-<sub>La qualité réelle dépend de l'image mise en ligne à l'origine.</sub>
+<sub>Actual quality depends on the image originally uploaded.</sub>
 
 <br>
 
-## 🚀 Utilisation
+## 🚀 How to use
 
-1. **Copie un lien** depuis YouTube, Spotify, Deezer, etc.
-2. **Colle-le** dans ImageGabe (ou glisse-le dans la fenêtre)
-3. Clique sur **Aperçu**
-4. **Enregistre** l'image ou **copie-la** directement
+1. **Copy a link** from YouTube, Spotify, Deezer, etc.
+2. **Paste it** into ImageGabe (or drag it into the window)
+3. Click **Preview**
+4. **Save** the image or **copy** it directly
 
-### ⌨️ Raccourcis
+### ⌨️ Shortcuts
 
-| Raccourci | Action |
+| Shortcut | Action |
 |:--|:--|
-| <kbd>Entrée</kbd> | Lancer l'aperçu |
-| <kbd>Ctrl</kbd> + <kbd>S</kbd> | Enregistrer l'image |
-| <kbd>Ctrl</kbd> + <kbd>Maj</kbd> + <kbd>C</kbd> | Copier l'image |
-| <kbd>Échap</kbd> | Fermer les paramètres |
+| <kbd>Enter</kbd> | Preview |
+| <kbd>Ctrl</kbd> + <kbd>S</kbd> | Save the image |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> | Copy the image |
+| <kbd>Esc</kbd> | Close settings |
 
 <br>
 
-## ⚙️ Paramètres
+## ⚙️ Settings
 
-Accessibles via l'icône ⚙️ en haut de la fenêtre :
+Open them with the ⚙️ icon at the top of the window:
 
-- **Thème** : sombre ou clair
-- **Langue** : français ou anglais
-- **Format par défaut** : JPG ou PNG
-- **Mises à jour** : vérification automatique au démarrage
-- **Nouveautés** : l'historique de toutes les versions
+- **Theme**: dark or light
+- **Language**: English or French
+- **Default format**: JPG or PNG
+- **Updates**: automatic check on startup
+- **What's new**: the history of every version
 
 <br>
 
 ## ❓ FAQ
 
 <details>
-<summary><b>Windows affiche « Windows a protégé votre ordinateur »</b></summary>
+<summary><b>Windows says "Windows protected your PC"</b></summary>
 <br>
-C'est normal pour une petite application qui n'est pas signée numériquement.
-Clique sur <b>Informations complémentaires</b>, puis sur <b>Exécuter quand même</b>.
-Ce message n'apparaît qu'au premier lancement.
+This is normal for a small app that isn't digitally signed.
+Click <b>More info</b>, then <b>Run anyway</b>.
+This message only appears the first time you launch it.
 </details>
 
 <details>
-<summary><b>Est-ce que je dois installer quelque chose ?</b></summary>
+<summary><b>Do I need to install anything?</b></summary>
 <br>
-Non. ImageGabe est un seul fichier <code>.exe</code> qui contient tout ce qu'il faut.
-Place-le où tu veux (Bureau, Documents…) et lance-le.
+No. ImageGabe is a single <code>.exe</code> file that contains everything it needs.
+Put it wherever you like (Desktop, Documents…) and run it.
 </details>
 
 <details>
-<summary><b>La mise à jour automatique ne fonctionne pas</b></summary>
+<summary><b>Automatic updates don't work</b></summary>
 <br>
-Évite de placer l'application dans <code>C:\Program Files</code> : ce dossier demande les droits administrateur
-et empêche l'app de se remplacer. Le Bureau ou un dossier personnel fonctionnent sans souci.
-Sinon, tu peux toujours télécharger la dernière version depuis la page
-<a href="https://github.com/LapPl4ND/ImageGabe/releases/latest">Releases</a>.
+Avoid putting the app in <code>C:\Program Files</code>: that folder requires administrator rights
+and prevents the app from replacing itself. Your Desktop or a personal folder work fine.
+You can always download the latest version from the
+<a href="https://github.com/LapPl4ND/ImageGabe/releases/latest">Releases</a> page.
 </details>
 
 <details>
-<summary><b>Un lien Twitch ne fonctionne pas</b></summary>
+<summary><b>A Twitch link doesn't work</b></summary>
 <br>
-Pour un lien de chaîne, ImageGabe récupère l'aperçu du <b>live en cours</b> : la chaîne doit donc être en direct.
-Pour une VOD ou un clip, utilise le lien direct de la vidéo.
+For a channel link, ImageGabe grabs the preview of the <b>current live stream</b>, so the channel has to be live.
+For a VOD or a clip, use the direct link to the video.
 </details>
 
 <details>
-<summary><b>Où sont enregistrés mes paramètres ?</b></summary>
+<summary><b>Where are my settings saved?</b></summary>
 <br>
-Dans <code>%AppData%\ImageGabe\settings.json</code>.
+In <code>%AppData%\ImageGabe\settings.json</code>.
 </details>
 
 <br>
 
-## 🛠️ Compiler le projet
+## 🛠️ Building the project
 
-Prérequis : [Visual Studio 2022](https://visualstudio.microsoft.com/) avec la charge de travail **Développement .NET Desktop**.
+Requirements: [Visual Studio 2022](https://visualstudio.microsoft.com/) with the **.NET desktop development** workload.
 
 ```bash
 git clone https://github.com/LapPl4ND/ImageGabe.git
 cd ImageGabe
 ```
 
-- **Lancer en développement** : ouvre le projet dans Visual Studio et appuie sur <kbd>F5</kbd>
-- **Créer l'exe final** : double-clique sur `publish.bat` (le fichier apparaît dans le dossier `publish`)
+- **Run in development**: open the project in Visual Studio and press <kbd>F5</kbd>
+- **Build the final exe**: double-click `publish.bat` (the file appears in the `publish` folder)
 
 <details>
-<summary><b>Structure du projet</b></summary>
+<summary><b>Project structure</b></summary>
 <br>
 
-| Fichier | Rôle |
+| File | Purpose |
 |:--|:--|
-| `MainWindow.xaml` / `.cs` | Interface et logique de la fenêtre |
-| `ArtworkService.cs` | Détection des plateformes et récupération des images |
-| `UpdateService.cs` | Mises à jour automatiques et notes de version via GitHub |
-| `Theme.cs` | Thèmes sombre et clair |
-| `Loc.cs` | Traductions français / anglais |
-| `AppSettings.cs` | Sauvegarde des paramètres |
-| `Assets/Logos/` | Logos des plateformes |
-| `publish.bat` | Génère l'exe final |
+| `MainWindow.xaml` / `.cs` | Window interface and logic |
+| `ArtworkService.cs` | Platform detection and image fetching |
+| `UpdateService.cs` | Automatic updates and release notes via GitHub |
+| `Theme.cs` | Dark and light themes |
+| `Loc.cs` | English / French translations |
+| `AppSettings.cs` | Settings storage |
+| `Assets/Logos/` | Platform logos |
+| `publish.bat` | Builds the final exe |
 
 </details>
 
 <br>
 
-## 📝 Notes de version
+## 📝 Release notes
 
-Toutes les nouveautés sont listées sur la page [**Releases**](https://github.com/LapPl4ND/ImageGabe/releases),
-et directement dans l'application via **⚙️ Paramètres → Voir les nouveautés**.
+Every change is listed on the [**Releases**](https://github.com/LapPl4ND/ImageGabe/releases) page,
+and right inside the app under **⚙️ Settings → See what's new**.
 
 <br>
 
@@ -206,8 +210,8 @@ et directement dans l'application via **⚙️ Paramètres → Voir les nouveaut
 
 <div align="center">
 
-Fait avec 💜 par **[Nyssira](https://github.com/LapPl4ND)**
+Made with 💜 by **[Nyssira](https://github.com/LapPl4ND)**
 
-<sub>ImageGabe n'est affilié à aucune des plateformes citées. Les pochettes et miniatures appartiennent à leurs auteurs respectifs.</sub>
+<sub>ImageGabe is not affiliated with any of the platforms mentioned. Cover art and thumbnails belong to their respective owners.</sub>
 
 </div>
