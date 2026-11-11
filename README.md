@@ -13,7 +13,7 @@ YouTube · Spotify · SoundCloud · Deezer · Apple Music · Twitch
 
 <br>
 
-**English** · [Français](README.fr.md)
+**English** 
 
 <br>
 
