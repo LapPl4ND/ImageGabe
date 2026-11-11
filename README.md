@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="Assets/logo.png" alt="ImageGabe logo" width="160">
 
 # ImageGabe
 
