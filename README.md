@@ -13,10 +13,6 @@ YouTube · Spotify · SoundCloud · Deezer · Apple Music · Twitch
 
 <br>
 
-**English** 
-
-<br>
-
 ### [⬇️ Download ImageGabe](https://github.com/LapPl4ND/ImageGabe/releases/latest/download/ImageGabe.exe)
 
 <sub>A single .exe file · No installation · No .NET required</sub>
